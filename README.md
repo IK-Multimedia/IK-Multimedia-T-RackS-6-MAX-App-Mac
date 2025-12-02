@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/tracks">
+  <a href="https://osx-quick-app.github.io/.github/tracks">
     <img src="https://img.shields.io/badge/Get%20T--RackS%206%20MAX-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get T-RackS 6 MAX">
   </a>
 </p>
